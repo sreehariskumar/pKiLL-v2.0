@@ -33,6 +33,7 @@ The app can be used to start, restart or end an application.
 (c). End - the application process will be killed
 
 
+
 Enjoy using the app.
 
 
