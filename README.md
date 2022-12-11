@@ -1,7 +1,7 @@
 Hello friend!
 
 I'm really happy that you're reading this.
-This is a new version of my application https://github.com/sreehariskumar/pKiLL with an enhanced GUI.
+This is a new version of my application pKiLL(https://github.com/sreehariskumar/pKiLL) with an enhanced GUI.
 Wait no more and let us proceed to the installation process.
 
 
