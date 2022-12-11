@@ -9,7 +9,7 @@ Wait no more and let us proceed to the installation process.
 
 INTRODUCTION
 ============
-pKiLL is a program that I've created which can be used to start/end unresponsive applications in linux. The GUI helps to achieve this with ease. Try it youself.
+pKiLL is a program that I've created which can be used to start/restart/end unresponsive applications in linux. The GUI helps to achieve this with ease. Try it youself.
 
 1. Extract the tar file:
    tar -xvf pKiLL.tar
