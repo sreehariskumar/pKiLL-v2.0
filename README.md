@@ -21,6 +21,15 @@ pKiLL is a program that I've created which can be used to start/end unresponsive
    python3 pKiLL.py
 
 
+HOW TO USE
+==========
+The app can be used to start, restart or end an application.
+1. Type the name of the application you need in the input field.
+2(a). Start - runs the application
+2(b). Restart - restarts the application if the application is already running
+2(c). End - the application process will be killed
+
+
 Enjoy using the app.
 
 
