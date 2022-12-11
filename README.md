@@ -25,8 +25,11 @@ HOW TO USE
 ==========
 The app can be used to start, restart or end an application.
 1. Type the name of the application you need in the input field.
+
 (a). Start - runs the application
+
 (b). Restart - restarts the application if the application is already running
+
 (c). End - the application process will be killed
 
 
