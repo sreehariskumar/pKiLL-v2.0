@@ -31,14 +31,14 @@ Navigate to the folder.
 cd pKiLL-v2.0
 ```
 
-Grant execute permission to the begin.sh script to make the script executable. 
+Grant execute permission to the install.sh script to make the script executable. 
 ```s
-chmod +x begin.sh
+chmod +x install.sh
 ```
 
 Run the begin.sh script to install necessary dependencies for the smooth functioning of the application.
 ```s
-./begin.sh
+./install.sh
 ```
 
 
