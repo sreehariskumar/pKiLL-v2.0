@@ -18,6 +18,10 @@ Type the name of the application in the input field.
 
 3. End - the application process will be killed
 
+![1](https://user-images.githubusercontent.com/68052722/223371003-9deccd72-ce49-4a89-ad27-f9417cc1afa1.png)
+
+![2](https://user-images.githubusercontent.com/68052722/223371018-af9659bd-ec3b-4c04-8fa4-c2e416f3817a.png)
+
 
 ### Wait no more and let us proceed to the installation process.
 
