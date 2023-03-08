@@ -4,7 +4,7 @@
 chmod +x *.sh 
 
 
-#check whether the logged in user is root
+# Check whether the logged in user is root
 [ "$(whoami)" != "root" ] && exec sudo -- "$0" "$@"
 
 # Find the package_manager and install the packages
