@@ -21,7 +21,7 @@ do
     fi
 done
 
-package="git python3 python3-tk"
+package="python3 python3-tk"
 
 ${package_manager} ${package}
 
