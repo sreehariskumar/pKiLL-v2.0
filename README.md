@@ -4,7 +4,7 @@ _I'm really happy that you're reading this. This is the latest version of my app
 
 
 ### INTRODUCTION
-pKiLL is a program that I've created which can be used to start/restart/end unresponsive applications in linux. The GUI helps to achieve this with ease. 
+pKiLL is a program that I've created which can be used to start/restart/end applications in linux. The GUI helps to achieve this with ease. 
 
 
 
